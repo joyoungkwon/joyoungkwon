@@ -32,7 +32,9 @@
       <img src="https://camo.githubusercontent.com/63b603fc84f26aa852753c74239f90c8180631b0245bcce0609b3f183153d3ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;">
      <img src="https://camo.githubusercontent.com/eab4eb50c13edd9176b38f96c0bf8514954b5bf2b627b4a8740f2d82560a9aca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%; background-color: yellow;">
   </div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyoungkwon&show_icons=true&theme=dark)
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=joyoungkwon&show_icons=true&theme=dark")
+  </div>
 </div>
 
 

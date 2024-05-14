@@ -1,9 +1,9 @@
-### Hi 👋
+
 <div align="center">
  <div>
    <div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=Jo%20YoungKwon" alt="Jo YoungKwon" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyoungkwon&show_icons=true&theme=dark" alt="GitHub Stats" width="400" height="200">
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=YoungKwon%27s%20G%69tHub" alt="Jo YoungKwon" width="700" height="300">
+
   </div>
 </div>
 

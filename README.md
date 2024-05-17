@@ -2,7 +2,7 @@
 <div align="center">
  <div>
    <div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=YoungKwon%27s%20G%69tHub" alt="Jo YoungKwon" width="700" height="300">
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=YeoungKwon%27s%20G%69tHub" alt="Jo YoungKwon" width="700" height="300">
 
   </div>
 </div>
